@@ -1,3 +1,7 @@
+<h1>Catatan : saya menggunakan database untuk tampilan data pada index '/', Fitur hitung waktu ada di '/absen' </h1>
+<h2> trying to post it on mahasiswabiasa.xyz hopefully work </h2>
+</br>
+</br>
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
